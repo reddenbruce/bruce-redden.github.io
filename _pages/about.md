@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Bruce"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a dedicated and ambitious Microbiology student at Washington State University, minoring in Genetics and Cellular Biology and Biomedical Ethics. I work in [Dr. Arden Baylink's lab](https://www.baylink-lab.com) studying carcinogenic gastric pathogens. My academic journey has been marked by a strong commitment to scientific research, leadership, and community service. With a GPA of 3.89, I strive for excellence in both my studies and extracurricular activities. My passion for science extends beyond the classroom, as evidenced by my involvement in research projects, teaching, and volunteering.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Outside of academics, I enjoy participating in clubs like the WSU Powerlifting Club and the Molecular Biosciences Club. I am also learning multiple languages, including German and ASL, and have a budding interest in programming with Python and R.
 
 A data-driven personal website
 ======
