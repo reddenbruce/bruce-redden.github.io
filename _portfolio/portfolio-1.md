@@ -1,6 +1,6 @@
 ---
 title: "Elucidating the H. pylori Killing Mechanisms of Small Molecule Inhibitors Targeting AhpC"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "This poster was used at two local research conferences: WSU Showcase For Undergraduate Research and Creativie and Activies 2025 and the WSU Summer Research Symposium 2025 <br/><img src='../images/SURCA_-_Bruce_Redden_PDF-1[1].png'>"
 collection: portfolio
 ---
 
